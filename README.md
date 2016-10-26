@@ -23,9 +23,9 @@ In the code:
 * `Root.jsx` - the user interface
 
 The UI revolves around a hilariously fantastic 3rd party component called
-Gifted Messenger:
+Gifted Chat:
 
-https://github.com/FaridSafi/react-native-gifted-messenger
+https://github.com/FaridSafi/react-native-gifted-chat
 
 
 # About The Server
